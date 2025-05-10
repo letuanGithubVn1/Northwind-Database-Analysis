@@ -44,10 +44,10 @@ Phân tích tình trạng giao hàng:
 ## 📸 Một số ảnh minh hoạ
 
 ### Shipment Analysis
-![Shipment Dashboard](./6c30ea2f-3696-4d05-9a83-fafab33c205c.png)
+![Shipment Dashboard](./images/shipment.png)
 
 ### Sales Analysis
-![Sales Dashboard](./d9e35c95-65a5-4a5f-9539-5416167afe60.png)
+![Sales Dashboard](./images/sales.png)
 
 ---
 
